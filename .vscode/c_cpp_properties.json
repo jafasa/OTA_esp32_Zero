@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/ota_Test_ESP32/include",
-                "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/ota_Test_ESP32/src",
+                "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/OTA_esp32_Zero/OTA_esp32_Zero/include",
+                "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/OTA_esp32_Zero/OTA_esp32_Zero/src",
                 "C:/Users/ARK_PC/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                 "C:/Users/ARK_PC/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
                 "C:/Users/ARK_PC/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/ota_Test_ESP32/include",
-                    "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/ota_Test_ESP32/src",
+                    "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/OTA_esp32_Zero/OTA_esp32_Zero/include",
+                    "d:/OneDrive/!my_Arduino_Prj/3-ESP32/PRJ/OTA_esp32_Zero/OTA_esp32_Zero/src",
                     "C:/Users/ARK_PC/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
                     "C:/Users/ARK_PC/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
                     "C:/Users/ARK_PC/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
